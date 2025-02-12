@@ -1,16 +1,8 @@
-# coedc49529cb7ecbb7b0cdcf8
-
-Quick start:
-
+# Getting Started
+Install the dependencies and run the project
 ```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
+npm install
+npm start
 ```
-$ yarn watch # npm run watch
-```
+
+Head over to https://vitejs.dev/ to learn more about configuring vite
